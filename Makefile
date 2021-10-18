@@ -1,6 +1,6 @@
 NAME = pipex
 
-SRC = pipex.c utils1.c utils2.c utils3.c utils4.c
+SRC = utils/pipex.c utils/utils1.c utils/utils2.c utils/utils3.c utils/utils4.c
 
 OBJ = $(SRC:.c=.o)
 

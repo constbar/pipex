@@ -1,4 +1,4 @@
-#include "pipex.h"
+#include "../pipex.h"
 
 int	ft_numwords(char const *s, char c)
 {

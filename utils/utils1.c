@@ -1,4 +1,4 @@
-#include "pipex.h"
+#include "../pipex.h"
 
 static void	ft_bzero(void *s, size_t n)
 {

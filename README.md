@@ -11,7 +11,7 @@ the project was made in accordance with the school design code standard in the C
 make
 ./pipex <infile> <cmd1> <cmd2> <outfile>
 ```
-example
+example:
 ```
 ./pipex infile cat "head -2" outfile
 ```

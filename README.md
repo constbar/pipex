@@ -6,6 +6,8 @@ the program takes the infile, outfile to redirect the stdin, stdout and 2 comman
 
 the project was made in accordance with the school design code standard in the C language.
 
+![](pipex.gif)
+
 ### how to use
 ```
 make
